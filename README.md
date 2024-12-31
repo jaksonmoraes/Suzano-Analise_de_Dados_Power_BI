@@ -1,6 +1,6 @@
 # Suzano-Analise_de_Dados_Power_BI
 
-Foi criado uma base de chamada "eccommerce" contendo 14 tabelas e suas relações e todas foram populadas.
+Foi criado uma base de chamada "eccommerce_BD" contendo 14 tabelas e suas relações e todas foram populadas.
 As querys de teste são a seguinte:
 1 - query buscando todos os clientes (Pf) cujo primeiro nome começa com C, usado um LIKE para filtrar a busca;
 2 - query usando WITH para trazer os dados de todos os clientes fisicos e juridicos, contendo nome sobrenome, a descrição do pedido feito e o valor do frete, utilizado JOIN, WITH, CONCAT e FORMAT;
